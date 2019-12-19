@@ -4,6 +4,10 @@ Click this link to go to the [Website](https://depressed-spot.surge.sh/).
 
 This is a single page static xmas theme app to create a christmas card including decorating a xmas tree
 
+### UI mock
+
+![Test Image](UI_mock.png "test text")
+
 ### Tools
 
 1. JavaScript
@@ -43,9 +47,7 @@ This is a single page static xmas theme app to create a christmas card including
 
 For further programming princinples you can check this [link](https://github.com/webpro/programming-principles)
 
-### UI mock
 
-![Test Image](UI_mock.png "test text")
 
 ### Analyzing the Bundle Size
 
