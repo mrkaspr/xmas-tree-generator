@@ -1,0 +1,28 @@
+xmas decorations:
+- red ball
+- yellow ball
+- socks
+- santa
+- snowman
+- gingerbread man
+
+
+canvas area
+width 1150px
+
+tree size
+540 x 620
+
+Tree area
+width: 450px
+height: 650px
+
+width 
+50 x 9
+
+height
+50 x 13
+
+13 x 9 = 117
+
+class (extends react component) vs function

@@ -1,0 +1,11 @@
+.redball{
+  background-image: url('Red_Ball.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  
+  /* padding-top:5px;
+  padding-left:5px; */
+}
