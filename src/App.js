@@ -2,8 +2,9 @@ import React from 'react';
 import './App.css';
 import RedBall from './RedBall';
 import YellowBall from './YellowBall';
-// import Grid from './Grid';
+import Santa from './Santa';
 import TreeGrids from './TreeGrids';
+import Sock from './Sock';
 
 
 function App() {
@@ -19,6 +20,9 @@ function App() {
 
         <RedBall />
         <YellowBall />
+        <Santa />
+        <Sock />
+
        
       </div>
 

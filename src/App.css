@@ -15,6 +15,8 @@
 
 .MenuArea{
   display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
   padding: 15px;
   border-radius: 25px;
   border: grey solid 1px;

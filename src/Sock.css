@@ -1,9 +1,10 @@
-.redball{
-  background-image: url('Red_Ball.gif');
+.sock{
+  background-image: url('sock.gif');
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 100% 100%;
   width: 50px;
   height: 50px;
   cursor: pointer;
-  margin-bottom: 10px;
+  padding: 10px;
 }
