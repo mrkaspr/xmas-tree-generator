@@ -17,6 +17,7 @@ This is a single page static xmas theme app to create a christmas card including
 1. React
 2. React DnD
 3. Adobe Illustrator
+4. Spotify API
 
 ### Things I have learned
 
@@ -28,8 +29,8 @@ This is a single page static xmas theme app to create a christmas card including
 
 ### Extension plan
 
-Step 1. Refactor code and file organization
-Step 2. Adding new features such as,
+- Step 1. Refactor code and file organization
+- Step 2. Adding new features such as,
   - Save State Feature: Creating an API with Express.js to interact with client side app to save data
   - Send Feature: being able to send completed digital card
 
@@ -42,9 +43,9 @@ Step 2. Adding new features such as,
 
 For further programming princinples you can check this [link](https://github.com/webpro/programming-principles)
 
-### Code Splitting
+### UI mock
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+![Test Image](/UI_Mock.png "test text")
 
 ### Analyzing the Bundle Size
 
