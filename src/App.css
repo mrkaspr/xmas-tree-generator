@@ -30,6 +30,7 @@
 
 .CanvasArea{
   display: flex ;
+  /* background-image: url('snowy-background4.jpg'); */
   background-size: 100% 100%;
   padding: 15px;
   margin-right: 10px;
@@ -41,6 +42,17 @@
   width: 1000px;
   height: 700px;
 }
+
+.background1{
+  background-image: url('snowy-background4.jpg');
+  background-size: 100% 100%;
+}
+
+.background2{
+  background-image: url('moon.jpeg');
+  background-size: 100% 100%;
+}
+
 
 .Image{
   background-image: url('Red_Ball.gif');
@@ -78,6 +90,7 @@
 }
 
 .TextAreaHelper{
+  display:inline-flexbox;
   /* background-color: lightgoldenrodyellow; */
   text-align: center;
   padding-top: 100px;
@@ -93,3 +106,6 @@
   background-color: white;
 }
 
+.hidden{
+  display: none;
+}

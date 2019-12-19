@@ -1,5 +1,4 @@
 import React from 'react';
-import Red_Ball from './Red_Ball.gif';
 import './Yellowball.css';
 
 export default class YellowBall extends React.Component{

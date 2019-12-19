@@ -1,5 +1,4 @@
 import React from 'react';
-import Red_Ball from './Red_Ball.gif';
 import './Santa.css';
 
 export default class Santa extends React.Component{

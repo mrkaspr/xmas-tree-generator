@@ -1,0 +1,11 @@
+textarea{
+  text-align: center;
+  background-color: transparent;
+  width: 470px;
+  height: 400px;
+  color: Red;
+  font-weight: bolder;
+  font-size: 66px;
+  /* scroll-behavior: unset; */
+  font-family: 'Mountains of Christmas', cursive;
+}

@@ -9,12 +9,12 @@ export default class TreeGrids extends React.Component{
   }
 
   dragEnter = event => {
-    event.target.className += ' hovered'
+    // event.target.className += ' hovered'
     console.log("hovered")
   }
 
   dragLeave = event => {
-    event.target.className = ''
+    // event.target.className = ''
     console.log('leave')
   }
 
@@ -28,6 +28,9 @@ export default class TreeGrids extends React.Component{
  
   }
 
+  onClick = event => {
+    event.target.className = ""
+  }
 
   render(){
 
@@ -39,7 +42,9 @@ export default class TreeGrids extends React.Component{
           onDragOver={this.dragOver}
           onDragEnter={this.dragEnter}
           onDragLeave={this.dragLeave}
-          onDrop={this.dragDrop}>
+          onDrop={this.dragDrop}
+          onClick={this.onClick}>
+         
           </div>)
       }
 

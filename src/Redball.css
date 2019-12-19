@@ -2,6 +2,7 @@
   background-image: url('Red_Ball.gif');
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 75% 75%;
   width: 50px;
   height: 50px;
   cursor: pointer;
