@@ -45,7 +45,7 @@ For further programming princinples you can check this [link](https://github.com
 
 ### UI mock
 
-![Test Image](/UI_Mock.png "test text")
+![Test Image](UI_mock.png "test text")
 
 ### Analyzing the Bundle Size
 
